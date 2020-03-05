@@ -1,0 +1,14 @@
+{
+  "name": "postman-newman-tests",
+  "version": "1.0.0",
+  "description": "newman tests",
+  "main": "index.js",
+  "scripts": {
+    "api-test": "newman run jsonplaceholder.postman_collection.json"
+  },
+  "author": "puneet",
+  "license": "MIT",
+  "dependencies": {
+    "newman": "^4.5.7"
+  }
+}
