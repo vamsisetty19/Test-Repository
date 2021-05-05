@@ -9,6 +9,6 @@
   "author": "puneet",
   "license": "MIT",
   "dependencies": {
-    "newman": "^4.5.7"
+    "newman": "^5.2.3"
   }
 }
